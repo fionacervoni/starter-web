@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 asdfghjkl
+
+### Copyright
+
+2020 Git.Training
