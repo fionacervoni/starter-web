@@ -16,3 +16,5 @@ Please for the repo and make PR for review.
 ### Copyright
 
 2020 Git.Training
+
+I AM BORED.
