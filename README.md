@@ -8,11 +8,10 @@ Introduction to the readme for the git udemy course.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## Deployment
-
-asdfghjkl
+Please for the repo and make PR for review.
 
 ### Copyright
 
